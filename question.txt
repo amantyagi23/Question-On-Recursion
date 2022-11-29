@@ -1,0 +1,24 @@
+Replace Pi Value with 3.14;
+i/p = : str ="2+pi*6*pi-pi"
+
+
+=======================================
+newQues1
+1) board and dice problem                     _________
+given target = 3,dice = 3,                   |---------|
+store all permutation in array list          |---------|
+                                             |---------|
+                                             |_________|
+
+=======================================
+newQues2
+2)given 3X3 board
+
+
+=====================================
+leetcode 
+
+climb stair
+fibonaci
+geek for geek
+rat in maze
